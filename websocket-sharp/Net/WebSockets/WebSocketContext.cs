@@ -31,7 +31,7 @@ using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Security.Principal;
 
-namespace WebSocketSharp.Net.WebSockets
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.WebSockets
 {
   /// <summary>
   /// Exposes the properties used to access the information in a WebSocket handshake request.
@@ -58,7 +58,7 @@ namespace WebSocketSharp.Net.WebSockets
     /// Gets the HTTP cookies included in the request.
     /// </summary>
     /// <value>
-    /// A <see cref="WebSocketSharp.Net.CookieCollection"/> that contains the cookies.
+    /// A <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.CookieCollection"/> that contains the cookies.
     /// </value>
     public abstract CookieCollection CookieCollection { get; }
 
@@ -195,11 +195,11 @@ namespace WebSocketSharp.Net.WebSockets
     public abstract System.Net.IPEndPoint UserEndPoint { get; }
 
     /// <summary>
-    /// Gets the <see cref="WebSocketSharp.WebSocket"/> instance used for
+    /// Gets the <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.WebSocket"/> instance used for
     /// two-way communication between client and server.
     /// </summary>
     /// <value>
-    /// A <see cref="WebSocketSharp.WebSocket"/>.
+    /// A <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.WebSocket"/>.
     /// </value>
     public abstract WebSocket WebSocket { get; }
 

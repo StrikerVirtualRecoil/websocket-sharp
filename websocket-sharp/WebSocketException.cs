@@ -28,7 +28,7 @@
 
 using System;
 
-namespace WebSocketSharp
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
 {
   /// <summary>
   /// The exception that is thrown when a <see cref="WebSocket"/> gets a fatal error.

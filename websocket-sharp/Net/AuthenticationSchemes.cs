@@ -39,7 +39,7 @@
 
 using System;
 
-namespace WebSocketSharp.Net
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Specifies the scheme for authentication.

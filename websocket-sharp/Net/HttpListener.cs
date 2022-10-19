@@ -52,7 +52,7 @@ using System.Security.Principal;
 using System.Threading;
 
 // TODO: Logging.
-namespace WebSocketSharp.Net
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Provides a simple, programmatically controlled HTTP listener.
@@ -148,9 +148,9 @@ namespace WebSocketSharp.Net
     /// Gets or sets the scheme used to authenticate the clients.
     /// </summary>
     /// <value>
-    /// One of the <see cref="WebSocketSharp.Net.AuthenticationSchemes"/> enum values,
+    /// One of the <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.AuthenticationSchemes"/> enum values,
     /// represents the scheme used to authenticate the clients. The default value is
-    /// <see cref="WebSocketSharp.Net.AuthenticationSchemes.Anonymous"/>.
+    /// <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.AuthenticationSchemes.Anonymous"/>.
     /// </value>
     /// <exception cref="ObjectDisposedException">
     /// This listener has been closed.

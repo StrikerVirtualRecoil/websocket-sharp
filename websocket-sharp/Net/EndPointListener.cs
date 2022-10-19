@@ -55,7 +55,7 @@ using System.Security.Cryptography;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 
-namespace WebSocketSharp.Net
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
 {
   internal sealed class EndPointListener
   {

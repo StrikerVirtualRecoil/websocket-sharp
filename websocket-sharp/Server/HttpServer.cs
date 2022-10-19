@@ -45,10 +45,10 @@ using System.Net.Sockets;
 using System.Security.Cryptography.X509Certificates;
 using System.Security.Principal;
 using System.Threading;
-using WebSocketSharp.Net;
-using WebSocketSharp.Net.WebSockets;
+using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net;
+using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.WebSockets;
 
-namespace WebSocketSharp.Server
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Server
 {
   /// <summary>
   /// Provides a simple HTTP server that allows to accept the WebSocket connection requests.
@@ -288,9 +288,9 @@ namespace WebSocketSharp.Server
     /// Gets or sets the scheme used to authenticate the clients.
     /// </summary>
     /// <value>
-    /// One of the <see cref="WebSocketSharp.Net.AuthenticationSchemes"/> enum values,
+    /// One of the <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.AuthenticationSchemes"/> enum values,
     /// indicates the scheme used to authenticate the clients. The default value is
-    /// <see cref="WebSocketSharp.Net.AuthenticationSchemes.Anonymous"/>.
+    /// <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.AuthenticationSchemes.Anonymous"/>.
     /// </value>
     public AuthenticationSchemes AuthenticationSchemes {
       get {

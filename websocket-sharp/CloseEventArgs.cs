@@ -28,7 +28,7 @@
 
 using System;
 
-namespace WebSocketSharp
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
 {
   /// <summary>
   /// Represents the event data for the <see cref="WebSocket.OnClose"/> event.

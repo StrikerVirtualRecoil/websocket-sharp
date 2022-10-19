@@ -50,7 +50,7 @@ using System.Globalization;
 using System.IO;
 using System.Text;
 
-namespace WebSocketSharp.Net
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Provides the access to a response to a request received by the <see cref="HttpListener"/>.

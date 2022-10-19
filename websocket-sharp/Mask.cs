@@ -28,7 +28,7 @@
 
 using System;
 
-namespace WebSocketSharp
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
 {
   /// <summary>
   /// Indicates whether the payload data of a WebSocket frame is masked.

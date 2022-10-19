@@ -36,7 +36,7 @@
  */
 #endregion
 
-namespace WebSocketSharp.Net
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Contains the values of the HTTP status codes.

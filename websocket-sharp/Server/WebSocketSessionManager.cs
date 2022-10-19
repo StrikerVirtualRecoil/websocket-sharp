@@ -34,7 +34,7 @@ using System.Text;
 using System.Threading;
 using System.Timers;
 
-namespace WebSocketSharp.Server
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Server
 {
   /// <summary>
   /// Manages the sessions in a Websocket service.

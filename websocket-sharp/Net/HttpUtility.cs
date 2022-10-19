@@ -49,7 +49,7 @@ using System.IO;
 using System.Security.Principal;
 using System.Text;
 
-namespace WebSocketSharp.Net
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
 {
   internal sealed class HttpUtility
   {

@@ -28,7 +28,7 @@
 
 using System;
 
-namespace WebSocketSharp
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
 {
   /// <summary>
   /// Specifies the byte order.

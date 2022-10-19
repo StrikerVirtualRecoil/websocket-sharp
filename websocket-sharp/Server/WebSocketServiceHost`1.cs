@@ -28,7 +28,7 @@
 
 using System;
 
-namespace WebSocketSharp.Server
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Server
 {
   internal class WebSocketServiceHost<TBehavior> : WebSocketServiceHost
     where TBehavior : WebSocketBehavior

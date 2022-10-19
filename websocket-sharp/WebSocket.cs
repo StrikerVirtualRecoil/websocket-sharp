@@ -52,10 +52,10 @@ using System.Net.Sockets;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
-using WebSocketSharp.Net;
-using WebSocketSharp.Net.WebSockets;
+using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net;
+using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.WebSockets;
 
-namespace WebSocketSharp
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
 {
   /// <summary>
   /// Implements the WebSocket interface.
@@ -328,7 +328,7 @@ namespace WebSocketSharp
     /// Gets the HTTP cookies included in the WebSocket handshake request and response.
     /// </summary>
     /// <value>
-    /// An <see cref="T:System.Collections.Generic.IEnumerable{WebSocketSharp.Net.Cookie}"/>
+    /// An <see cref="T:System.Collections.Generic.IEnumerable{FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.Cookie}"/>
     /// instance that provides an enumerator which supports the iteration over the collection of
     /// the cookies.
     /// </value>

@@ -47,7 +47,7 @@
 using System;
 using System.Threading;
 
-namespace WebSocketSharp.Net
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
 {
   internal class HttpListenerAsyncResult : IAsyncResult
   {

@@ -27,9 +27,9 @@
 #endregion
 
 using System;
-using WebSocketSharp.Net.WebSockets;
+using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.WebSockets;
 
-namespace WebSocketSharp.Server
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Server
 {
   /// <summary>
   /// Exposes the properties used to access the information in a session in a WebSocket service.

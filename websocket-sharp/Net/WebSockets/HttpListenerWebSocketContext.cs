@@ -32,7 +32,7 @@ using System.Collections.Specialized;
 using System.IO;
 using System.Security.Principal;
 
-namespace WebSocketSharp.Net.WebSockets
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.WebSockets
 {
   /// <summary>
   /// Provides the properties used to access the information in
@@ -79,7 +79,7 @@ namespace WebSocketSharp.Net.WebSockets
     /// Gets the HTTP cookies included in the request.
     /// </summary>
     /// <value>
-    /// A <see cref="WebSocketSharp.Net.CookieCollection"/> that contains the cookies.
+    /// A <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.CookieCollection"/> that contains the cookies.
     /// </value>
     public override CookieCollection CookieCollection {
       get {
@@ -284,11 +284,11 @@ namespace WebSocketSharp.Net.WebSockets
     }
 
     /// <summary>
-    /// Gets the <see cref="WebSocketSharp.WebSocket"/> instance used for
+    /// Gets the <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.WebSocket"/> instance used for
     /// two-way communication between client and server.
     /// </summary>
     /// <value>
-    /// A <see cref="WebSocketSharp.WebSocket"/>.
+    /// A <see cref="FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.WebSocket"/>.
     /// </value>
     public override WebSocket WebSocket {
       get {

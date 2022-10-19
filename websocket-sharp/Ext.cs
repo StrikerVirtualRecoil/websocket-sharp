@@ -53,11 +53,11 @@ using System.IO.Compression;
 using System.Net.Sockets;
 using System.Security.Cryptography.X509Certificates;
 using System.Text;
-using WebSocketSharp.Net;
-using WebSocketSharp.Net.WebSockets;
-using WebSocketSharp.Server;
+using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net;
+using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.WebSockets;
+using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Server;
 
-namespace WebSocketSharp
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
 {
   /// <summary>
   /// Provides a set of static methods for websocket-sharp.

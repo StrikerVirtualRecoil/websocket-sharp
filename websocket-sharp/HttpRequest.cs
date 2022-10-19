@@ -37,9 +37,9 @@ using System;
 using System.Collections.Specialized;
 using System.IO;
 using System.Text;
-using WebSocketSharp.Net;
+using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net;
 
-namespace WebSocketSharp
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
 {
   internal class HttpRequest : HttpBase
   {

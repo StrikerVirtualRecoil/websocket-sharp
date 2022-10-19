@@ -41,7 +41,7 @@
 using System;
 using System.Net;
 
-namespace WebSocketSharp.Net
+namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
 {
   internal sealed class HttpListenerPrefix
   {
