@@ -39,7 +39,7 @@
 
 using System;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   internal class ReadBufferState
   {

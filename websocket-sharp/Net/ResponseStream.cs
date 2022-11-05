@@ -41,7 +41,7 @@ using System;
 using System.IO;
 using System.Text;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   internal class ResponseStream : Stream
   {

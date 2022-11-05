@@ -44,7 +44,7 @@ using System;
 using System.Collections.Specialized;
 using System.Text;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   internal sealed class QueryStringCollection : NameValueCollection
   {

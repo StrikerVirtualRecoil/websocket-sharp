@@ -44,7 +44,7 @@ using System;
 using System.Globalization;
 using System.Text;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Provides a set of methods and properties used to manage an HTTP Cookie.

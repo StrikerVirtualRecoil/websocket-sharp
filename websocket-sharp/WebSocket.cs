@@ -52,10 +52,10 @@ using System.Net.Sockets;
 using System.Security.Cryptography;
 using System.Text;
 using System.Threading;
-using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net;
-using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.WebSockets;
+using StrikerLink.ThirdParty.WebSocketSharp.Net;
+using StrikerLink.ThirdParty.WebSocketSharp.Net.WebSockets;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
+namespace StrikerLink.ThirdParty.WebSocketSharp
 {
   /// <summary>
   /// Implements the WebSocket interface.

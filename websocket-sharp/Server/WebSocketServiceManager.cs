@@ -32,9 +32,9 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text;
 using System.Threading;
-using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net;
+using StrikerLink.ThirdParty.WebSocketSharp.Net;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Server
+namespace StrikerLink.ThirdParty.WebSocketSharp.Server
 {
   /// <summary>
   /// Manages the WebSocket services provided by the <see cref="HttpServer"/> or

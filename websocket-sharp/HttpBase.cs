@@ -32,9 +32,9 @@ using System.Collections.Specialized;
 using System.IO;
 using System.Text;
 using System.Threading;
-using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net;
+using StrikerLink.ThirdParty.WebSocketSharp.Net;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
+namespace StrikerLink.ThirdParty.WebSocketSharp
 {
   internal abstract class HttpBase
   {

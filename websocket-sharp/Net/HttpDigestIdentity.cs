@@ -30,7 +30,7 @@ using System;
 using System.Collections.Specialized;
 using System.Security.Principal;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Holds the user name and other parameters from the HTTP Digest authentication credentials.

@@ -45,7 +45,7 @@ using System.Collections.Generic;
 using System.Globalization;
 using System.Text;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Provides a collection container for instances of the <see cref="Cookie"/> class.

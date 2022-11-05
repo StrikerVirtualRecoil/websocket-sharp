@@ -38,7 +38,7 @@
 
 using System;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Provides the HTTP version numbers.

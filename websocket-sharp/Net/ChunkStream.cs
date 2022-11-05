@@ -44,7 +44,7 @@ using System.IO;
 using System.Net;
 using System.Text;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   internal class ChunkStream
   {

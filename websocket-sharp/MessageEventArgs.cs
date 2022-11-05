@@ -28,7 +28,7 @@
 
 using System;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
+namespace StrikerLink.ThirdParty.WebSocketSharp
 {
   /// <summary>
   /// Represents the event data for the <see cref="WebSocket.OnMessage"/> event.

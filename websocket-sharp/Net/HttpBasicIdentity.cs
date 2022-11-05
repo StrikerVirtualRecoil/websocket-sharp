@@ -40,7 +40,7 @@
 using System;
 using System.Security.Principal;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Holds the user name and password from the HTTP Basic authentication credentials.

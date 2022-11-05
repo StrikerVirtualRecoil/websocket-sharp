@@ -41,7 +41,7 @@ using System;
 using System.Collections;
 using System.Collections.Generic;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Provides the collection used to store the URI prefixes for the <see cref="HttpListener"/>.

@@ -28,7 +28,7 @@
 
 using System;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Server
+namespace StrikerLink.ThirdParty.WebSocketSharp.Server
 {
   internal enum ServerState
   {

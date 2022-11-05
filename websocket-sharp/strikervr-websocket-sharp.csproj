@@ -7,13 +7,15 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>{B357BAC7-529E-4D81-A0D2-71041B19C8DE}</ProjectGuid>
     <OutputType>Library</OutputType>
-    <RootNamespace>FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp</RootNamespace>
-    <AssemblyName>fenneclabs.spawnpoint.websocket-sharp</AssemblyName>
+    <RootNamespace>StrikerLink.ThirdParty.WebSocketSharp</RootNamespace>
+    <AssemblyName>strikervr-websocket-sharp</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>websocket-sharp.snk</AssemblyOriginatorKeyFile>
-    <FileUpgradeFlags>40</FileUpgradeFlags>
-    <UpgradeBackupLocation>P:\Code\Xamarin\FennecAgent\Backup\</UpgradeBackupLocation>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
     <OldToolsVersion>Current</OldToolsVersion>
     <TargetFrameworkProfile />
   </PropertyGroup>
@@ -46,6 +48,13 @@
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release_Ubuntu|x64'">
     <OutputPath>bin\x64\Release_Ubuntu\</OutputPath>
+    <PlatformTarget>x64</PlatformTarget>
+    <LangVersion>7.3</LangVersion>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Production|x64'">
+    <OutputPath>bin\x64\Production\</OutputPath>
     <PlatformTarget>x64</PlatformTarget>
     <LangVersion>7.3</LangVersion>
     <ErrorReport>prompt</ErrorReport>

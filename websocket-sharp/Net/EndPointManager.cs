@@ -49,7 +49,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Net;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   internal sealed class EndPointManager
   {

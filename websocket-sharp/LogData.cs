@@ -30,7 +30,7 @@ using System;
 using System.Diagnostics;
 using System.Text;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp
+namespace StrikerLink.ThirdParty.WebSocketSharp
 {
   /// <summary>
   /// Represents a log data used by the <see cref="Logger"/> class.

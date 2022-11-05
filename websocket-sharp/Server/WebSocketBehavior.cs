@@ -28,10 +28,10 @@
 
 using System;
 using System.IO;
-using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net;
-using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.WebSockets;
+using StrikerLink.ThirdParty.WebSocketSharp.Net;
+using StrikerLink.ThirdParty.WebSocketSharp.Net.WebSockets;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Server
+namespace StrikerLink.ThirdParty.WebSocketSharp.Server
 {
   /// <summary>
   /// Exposes the methods and properties used to define the behavior of a WebSocket service

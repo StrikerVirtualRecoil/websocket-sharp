@@ -27,9 +27,9 @@
 #endregion
 
 using System;
-using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net;
+using StrikerLink.ThirdParty.WebSocketSharp.Net;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Server
+namespace StrikerLink.ThirdParty.WebSocketSharp.Server
 {
   /// <summary>
   /// Represents the event data for the HTTP request event that the <see cref="HttpServer"/> emits.

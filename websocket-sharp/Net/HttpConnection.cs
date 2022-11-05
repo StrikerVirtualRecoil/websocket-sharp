@@ -53,7 +53,7 @@ using System.Net.Sockets;
 using System.Text;
 using System.Threading;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   internal sealed class HttpConnection
   {

@@ -39,9 +39,9 @@
 
 using System;
 using System.Security.Principal;
-using FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net.WebSockets;
+using StrikerLink.ThirdParty.WebSocketSharp.Net.WebSockets;
 
-namespace FennecLabs.Spawnpoint.ThirdParty.WebSocketSharp.Net
+namespace StrikerLink.ThirdParty.WebSocketSharp.Net
 {
   /// <summary>
   /// Provides the access to the HTTP request and response objects used by
